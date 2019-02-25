@@ -112,4 +112,4 @@ The projects were coded in Python/SQL using Jupyter Notebook.
 
 - [39 - Cleaning and Analysing Employee Exit Surveys](https://github.com/ChrisJESmith/DataScience-Projects/blob/master/Project%2039%20-%20Cleaning%20and%20Analysing%20Employee%20Exit%20Surveys.ipynb)
 
-
+- [40 - Exploring Police Killings across US States](https://github.com/ChrisJESmith/DataScience-Projects/blob/master/Project%2040%20-%20Exploring%20Police%20Killings%20Across%20US%20States.ipynb)
