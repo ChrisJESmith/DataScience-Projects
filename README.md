@@ -1,5 +1,5 @@
 ## Data Science Projects
-The following repository contains a series of Data Science projects that demonstrate the import, processing and visualisation of various datasets. The purpose is to demonstrate a wide array of skills across the data science lifecycle, including data visualisation, machine learning concepts and statistical analysis.
+The following repository contains a series of Data Science projects that demonstrate the import, processing and visualisation of various datasets. The purpose is to demonstrate a wide array of skills across the data science lifecycle, including data analysis, statistics and machine learning concepts.
 
 Most datasets used are freely available online.
 
