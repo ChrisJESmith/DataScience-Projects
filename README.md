@@ -1,5 +1,8 @@
 ## Data Science Projects
-The following repository contains a series of Data Science projects covering the import, processing and visualisation of various datasets. 
+The following repository contains a series of Data Science projects that demonstrate the import, processing and visualisation of various datasets. The purpose is to demonstrate a wide array of skills across the data science lifecycle, including data visualisation, machine learning concepts and statistical analysis.
+
+Most datasets used are freely available online.
+
 The projects were coded in Python/SQL using Jupyter Notebook.
 
 - [01 - Exploring US Births](https://github.com/ChrisJESmith/DataScience-Projects/blob/master/Project%2001%20-%20Exploring%20US%20Births.ipynb)
